@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Red Discord Bot
+  Kaxo Bot
   <br>
 </h1>
 
