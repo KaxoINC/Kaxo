@@ -52,5 +52,5 @@ then click on the bot icon and you'll be able to see all the commands
 # Contributor
 
 [4kara](https://github.com/4kaaraa) | Creator of bot
-[GameFRK](https://github.com/4kaaraa) | Creator of docPanel
-[Ninatasia](https://github.com/4kaaraa) | Creator of webPanel
+[GameFRK](https://github.com/GameFRKOff) | Creator of docPanel
+[Ninatasia](https://github.com/Ninatasia) | Creator of webPanel
