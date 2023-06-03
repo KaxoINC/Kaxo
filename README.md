@@ -14,7 +14,6 @@
   <a href="#use">Use Kaxo</a>
   •
   <a href="#contributor">Contributor</a>
-  •
 </p>
 
 # Overview
