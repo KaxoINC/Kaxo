@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Music, Moderation, Giveaway, Captch, Other.</h4>
+<h4 align="center">Music, Moderation, Giveaway, Captcha, Other.</h4>
 
 <p align="center">
   <a href="#overview">Presentation</a>
