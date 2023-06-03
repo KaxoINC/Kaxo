@@ -18,7 +18,7 @@
 
 # Overview
 
-Kaxo is a fully modular bot - meaning that all functions and controls can be activated/deactivated, making it 100% customizable.
+Kaxo is a fully modular bot - meaning that all functions and controls can be enabled/disabled, making it 100% customizable.
 the bot is *hosted* - meaning you don't need to launch it, just invite it.
 if you have any specific questions, you can find the documentation or even the configuration panel below. 
 
