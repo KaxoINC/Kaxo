@@ -33,11 +33,7 @@ From the web panel you can configure the entire bot, and it updates automaticall
 
 # Installation
 
-1. Install node.js | V.18
-2. Install Visual Studio code
-3. launch cmd and write "npm install"
-4. open config.js, change token
-5. open cmd and write "nodemon"
+- get link discord to invite kaxo
 
 # Use
 
